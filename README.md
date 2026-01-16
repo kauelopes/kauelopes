@@ -1,6 +1,6 @@
 ## Hey, I'm Kauê! 👋
 
-- I'm a **data scientist** with a degree in **Computer Science** and a **specialization in Economic Theory**.
+- I'm a **data scientist** with a degree in **Computer Science**, a Master’s degree in Economics, and currently a PhD candidate in **Economic Theory**.
 - I'm passionate about solving complex problems through **AI** and **data science**, always aiming to bridge the worlds of tech and economics.
 - Feel free to explore my repositories, reach out for a chat, or collaborate on something interesting!
 
