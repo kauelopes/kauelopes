@@ -6,4 +6,3 @@
 
 - My digital Garden: [Cobb Douglaz](https://www.cobbdouglaz.com/)
 
-- For **professional inquiries** and consulting, email me at [contato@klmconsulting.com.br](mailto:contato@klmconsulting.com.br).
